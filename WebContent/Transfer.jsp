@@ -19,7 +19,7 @@
 	<c:set var ="address" value ="${Employee.address}"/>
 		
 		<tr>
-			<td>1. Name:</td>
+			<td>1. Employee Name:</td>
 			<td>${Employee.name}</td>
 		</tr>
 		<tr>
